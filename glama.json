@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "邮轮季节性促销",
+  "description": "提供最新的邮轮季节性促销信息，让用户及时了解优惠活动，适合预算有限但渴望出行的旅客。"
+}
